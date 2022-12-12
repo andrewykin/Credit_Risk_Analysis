@@ -4,37 +4,37 @@
 Fast Lending wants to use supervised machine learning to predict credit risk. They believe that this can lead to better loans & lower default rates. Use machine learning models to analyze the consumer credit profiles dataset.
 
 ## Results
-# Naive Random Oversampling
+### Naive Random Oversampling
 ![](Resources/)
 - Balanced Accuracy Score: 
 - Presision Score: 
 - Recall Score:
 
-# SMOTE Oversampling
+### SMOTE Oversampling
 ![](Resources/)
 - Balanced Accuracy Score: 
 - Presision Score: 
 - Recall Score:
 
-# Cluster Centroid Undersampling
+### Cluster Centroid Undersampling
 ![](Resources/)
 - Balanced Accuracy Score: 
 - Presision Score: 
 - Recall Score:
 
-# SMOTEENN Combination Over & Undersampling
+### SMOTEENN Combination Over & Undersampling
 ![](Resources/)
 - Balanced Accuracy Score: 
 - Presision Score: 
 - Recall Score:
 
-# Random Forest Classifier
+### Random Forest Classifier
 ![](Resources/)
 - Balanced Accuracy Score: 
 - Presision Score: 
 - Recall Score:
 
-# Easy Ensemble Adaboost Classifier
+### Easy Ensemble Adaboost Classifier
 ![](Resources/)
 - Balanced Accuracy Score: 
 - Presision Score: 
